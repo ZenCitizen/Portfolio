@@ -12,10 +12,10 @@
 
 Below is a list of some of my notable projects:
 
-| Project | Description | Technologies Used |
+| Проект | Описание | Навыки и инструменты
 | ------- | ----------- | ----------------- |
-| [Project 1](link_to_project1) | Brief description of project 1. | Technologies used in project 1. |
-| [Project 2](link_to_project2) | Brief description of project 2. | Technologies used in project 2. |
+| [Анализ NPS телекоммуникационной компании](link_to_project1) | Исследование данных с результатами опроса, отражающего текущий уровень потребительской лояльности (NPS) клиентов телекоммуникационной компании. | SQL, Python, Pandas, Tableau |
+| [Анализ убытков приложения ProcrastinatePRO+](link_to_project2) | Проведен анализ данных от ProcrastinatePRO+. Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д. Использованы уже написанные ранее функции расчёта метрик. Сделаны правильные выводы по полученным данным. | Python, Pandas, Matplotlib, когортный анализ, юнит-экономика, продуктовые метрики |
 | [Project 3](link_to_project3) | Brief description of project 3. | Technologies used in project 3. |
 
 
