@@ -14,7 +14,7 @@
 
 Ознакомиться с исследованием можно в файле [Procrastinate pro_Unit Economy.ipynb](https://github.com/ZenCitizen/portfolio/blob/main/Procrastinate_pro%20Unit_Economy/Procrastinate%20pro_Unit%20Economy.ipynb)
 
-## Используемые технологии
+## Навыки и инструменты
 - Python
 - Pandas
 - Matplotlib
